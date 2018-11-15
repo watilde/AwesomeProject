@@ -11,7 +11,12 @@
   "dependencies": {
     "expo": "^31.0.2",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1",
+    "redux-immutable-state-invariant": "^2.1.0",
+    "redux-persist": "^5.10.0",
+    "redux-saga": "^0.16.2"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
